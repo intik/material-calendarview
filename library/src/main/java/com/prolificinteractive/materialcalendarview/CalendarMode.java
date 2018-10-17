@@ -12,7 +12,7 @@ public enum CalendarMode {
   /**
    * Week mode that shows the calendar week by week.
    */
-  WEEKS(1);
+  WEEKS(1),
   
   /**
   * Week mode that show the calendar two weeks by two weeks.
