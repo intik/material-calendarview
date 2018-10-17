@@ -13,6 +13,11 @@ public enum CalendarMode {
    * Week mode that shows the calendar week by week.
    */
   WEEKS(1);
+  
+  /**
+  * Week mode that show the calendar two weeks by two weeks.
+  **/
+  BI_WEEK(2);
 
   /**
    * Number of visible weeks per calendar mode.
